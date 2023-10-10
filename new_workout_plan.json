@@ -1,0 +1,1689 @@
+{
+  "WorkoutPlan": [
+    {
+      "WeekNumber": 1,
+      "Focus": "Full Body (Undulating Periodization)",
+      "Days": [
+        {
+          "DayNumber": 1,
+          "DayType": "Strength Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Deadlifts",
+              "Presets": {
+                "Sets": 5,
+                "Reps": null,
+                "%1RM": "80%",
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Overhead Press",
+              "Presets": {
+                "Sets": 5,
+                "Reps": null,
+                "%1RM": "80%",
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Pull-Ups",
+              "Presets": {
+                "Sets": 6,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Calf Raises",
+              "Presets": {
+                "Sets": 15,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 6
+              }
+            },
+            {
+              "Name": "Dumbbell Lateral Raise",
+              "Presets": {
+                "Sets": 12,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 6
+              }
+            },
+            {
+              "Name": "Tricep Pressdown",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Ab Circuit (Hanging Leg Raise + Bicycle Crunch)",
+              "Presets": {
+                "Sets": 15,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            }
+          ]
+        },
+        {
+          "DayNumber": 2,
+          "DayType": "Hybrid Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Bulgarian Split Squat",
+              "Presets": {
+                "Sets": 8,
+                "Reps": null,
+                "%1RM": "75%",
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Bench Press",
+              "Presets": {
+                "Sets": 8,
+                "Reps": null,
+                "%1RM": "75%",
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Barbell Curl",
+              "Presets": {
+                "Sets": 8,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Seated Calf Raises",
+              "Presets": {
+                "Sets": 15,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 6
+              }
+            },
+            {
+              "Name": "Face Pulls",
+              "Presets": {
+                "Sets": 12,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 6
+              }
+            },
+            {
+              "Name": "Skull Crushers",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Incline Dumbbell Press",
+              "Presets": {
+                "Sets": 8,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            }
+          ]
+        },
+        {
+          "DayNumber": 3,
+          "DayType": "Hypertrophy Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Back Squat (or user-selected substitution)",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": "70%",
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Weighted Dip",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": "70%",
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Hammer Curl",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Standing Calf Raises",
+              "Presets": {
+                "Sets": 15,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 6
+              }
+            },
+            {
+              "Name": "Lean-Away Lateral Raise",
+              "Presets": {
+                "Sets": 12,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 6
+              }
+            },
+            {
+              "Name": "Close-Grip Bench Press",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Barbell Shrugs",
+              "Presets": {
+                "Sets": 12,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            }
+          ]
+        },
+        {
+          "DayNumber": 4,
+          "DayType": "Hybrid Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Deadlifts",
+              "Presets": {
+                "Sets": 6,
+                "Reps": null,
+                "%1RM": "75%",
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Bench Press",
+              "Presets": {
+                "Sets": 6,
+                "Reps": null,
+                "%1RM": "75%",
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Incline Dumbbell Curl",
+              "Presets": {
+                "Sets": 8,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Calf Raises",
+              "Presets": {
+                "Sets": 15,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 6
+              }
+            },
+            {
+              "Name": "Upright Row",
+              "Presets": {
+                "Sets": 12,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 6
+              }
+            },
+            {
+              "Name": "Tricep Pressdown",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Russian Twists",
+              "Presets": {
+                "Sets": 15,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "WeekNumber": 2,
+      "Focus": "Upper/Lower Split",
+      "Days": [
+        {
+          "DayNumber": 1,
+          "DayType": "Strength Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Bench Press",
+              "Presets": {
+                "Sets": 5,
+                "Reps": null,
+                "%1RM": "5%",
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Pendlay Row (great for upper back)",
+              "Presets": {
+                "Sets": 5,
+                "Reps": null,
+                "%1RM": "80%",
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Incline Dumbbell Press (to target upper chest)",
+              "Presets": {
+                "Sets": 8,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Face Pulls (for rear delts/upper back)",
+              "Presets": {
+                "Sets": 12,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Barbell Curl",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Tricep Pressdown",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            }
+          ]
+        },
+        {
+          "DayNumber": 2,
+          "DayType": "Strength Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Back Squat (or user-selected substitution)",
+              "Presets": {
+                "Sets": 5,
+                "Reps": null,
+                "%1RM": "5%",
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Romanian Deadlift (targets hamstrings and glutes)",
+              "Presets": {
+                "Sets": 5,
+                "Reps": null,
+                "%1RM": "80%",
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Bulgarian Split Squat",
+              "Presets": {
+                "Sets": 8,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Seated Calf Raises",
+              "Presets": {
+                "Sets": 15,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Hanging Leg Raise (for core)",
+              "Presets": {
+                "Sets": 12,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            }
+          ]
+        },
+        {
+          "DayNumber": 3,
+          "DayType": "Hypertrophy Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Overhead Press",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": "70%",
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Pull-Ups",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Dumbbell Lateral Raise",
+              "Presets": {
+                "Sets": 12,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Hammer Curl",
+              "Presets": {
+                "Sets": 12,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Skull Crushers",
+              "Presets": {
+                "Sets": 12,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Russian Twists (for core)",
+              "Presets": {
+                "Sets": 15,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            }
+          ]
+        },
+        {
+          "DayNumber": 4,
+          "DayType": "Hypertrophy Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Deadlift",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": "70%",
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Front Squat (a variation to target quads more)",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": "70%",
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Leg Curl (for hamstrings)",
+              "Presets": {
+                "Sets": 12,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Standing Calf Raises",
+              "Presets": {
+                "Sets": 15,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Bicycle Crunch (for core)",
+              "Presets": {
+                "Sets": 15,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "V Sit-Up (for core)",
+              "Presets": {
+                "Sets": 15,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "WeekNumber": 3,
+      "Focus": "Full Body Focus",
+      "Days": [
+        {
+          "DayNumber": 1,
+          "DayType": "Strength Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Deadlift",
+              "Presets": {
+                "Sets": 5,
+                "Reps": null,
+                "%1RM": "85%",
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Overhead Press",
+              "Presets": {
+                "Sets": 5,
+                "Reps": null,
+                "%1RM": "85%",
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Pull-Ups",
+              "Presets": {
+                "Sets": 6,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Calf Raises",
+              "Presets": {
+                "Sets": 15,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Dumbbell Lateral Raise",
+              "Presets": {
+                "Sets": 12,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Barbell Curl",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Russian Twists",
+              "Presets": {
+                "Sets": 15,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            }
+          ]
+        },
+        {
+          "DayNumber": 2,
+          "DayType": "Hybrid Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Bench Press",
+              "Presets": {
+                "Sets": 6,
+                "Reps": null,
+                "%1RM": "80%",
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Pendlay Row",
+              "Presets": {
+                "Sets": 6,
+                "Reps": null,
+                "%1RM": "80%",
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Incline Dumbbell Press",
+              "Presets": {
+                "Sets": 8,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Face Pulls",
+              "Presets": {
+                "Sets": 12,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Hammer Curl",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Tricep Pressdown",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Hanging Leg Raise",
+              "Presets": {
+                "Sets": 12,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            }
+          ]
+        },
+        {
+          "DayNumber": 3,
+          "DayType": "Hypertrophy Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Squat Variation (user-selected)",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": "75%",
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Weighted Dip",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": "75%",
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Leg Curl",
+              "Presets": {
+                "Sets": 12,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Standing Calf Raises",
+              "Presets": {
+                "Sets": 15,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Dumbbell Lateral Raise",
+              "Presets": {
+                "Sets": 12,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Barbell Curl",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Bicycle Crunch",
+              "Presets": {
+                "Sets": 15,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            }
+          ]
+        },
+        {
+          "DayNumber": 4,
+          "DayType": "Hybrid Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Deadlift",
+              "Presets": {
+                "Sets": 6,
+                "Reps": null,
+                "%1RM": "80%",
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Bench Press",
+              "Presets": {
+                "Sets": 6,
+                "Reps": null,
+                "%1RM": "80%",
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Pull-Ups",
+              "Presets": {
+                "Sets": 8,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Seated Calf Raises",
+              "Presets": {
+                "Sets": 15,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Face Pulls",
+              "Presets": {
+                "Sets": 12,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Skull Crushers",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "V Sit-Up",
+              "Presets": {
+                "Sets": 15,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "WeekNumber": 4,
+      "Focus": "Upper/Lower Split",
+      "Days": [
+        {
+          "DayNumber": 1,
+          "DayType": "Strength Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Bench Press",
+              "Presets": {
+                "Sets": 3,
+                "Reps": null,
+                "%1RM": "5%",
+                "RPE": 9
+              }
+            },
+            {
+              "Name": "Pendlay Row",
+              "Presets": {
+                "Sets": 3,
+                "Reps": null,
+                "%1RM": "90%",
+                "RPE": 9
+              }
+            },
+            {
+              "Name": "Incline Dumbbell Press",
+              "Presets": {
+                "Sets": 6,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Face Pulls",
+              "Presets": {
+                "Sets": 12,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Barbell Curl",
+              "Presets": {
+                "Sets": 8,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Tricep Pressdown",
+              "Presets": {
+                "Sets": 8,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            }
+          ]
+        },
+        {
+          "DayNumber": 2,
+          "DayType": "Strength Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Back Squat (or user-selected substitution)",
+              "Presets": {
+                "Sets": 3,
+                "Reps": null,
+                "%1RM": "5%",
+                "RPE": 9
+              }
+            },
+            {
+              "Name": "Romanian Deadlift",
+              "Presets": {
+                "Sets": 3,
+                "Reps": null,
+                "%1RM": "90%",
+                "RPE": 9
+              }
+            },
+            {
+              "Name": "Bulgarian Split Squat",
+              "Presets": {
+                "Sets": 6,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Seated Calf Raises",
+              "Presets": {
+                "Sets": 15,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Hanging Leg Raise",
+              "Presets": {
+                "Sets": 12,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            }
+          ]
+        },
+        {
+          "DayNumber": 3,
+          "DayType": "Hypertrophy Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Overhead Press",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": "75%",
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Pull-Ups",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Dumbbell Lateral Raise",
+              "Presets": {
+                "Sets": 12,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Hammer Curl",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Skull Crushers",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Russian Twists",
+              "Presets": {
+                "Sets": 15,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            }
+          ]
+        },
+        {
+          "DayNumber": 4,
+          "DayType": "Hypertrophy Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Deadlift",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": "75%",
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Front Squat",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": "75%",
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Leg Curl",
+              "Presets": {
+                "Sets": 12,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Standing Calf Raises",
+              "Presets": {
+                "Sets": 15,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Bicycle Crunch",
+              "Presets": {
+                "Sets": 15,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "V Sit-Up",
+              "Presets": {
+                "Sets": 15,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "WeekNumber": 5,
+      "Focus": "Full Body Hypertrophy Focus",
+      "Days": []
+    },
+    {
+      "WeekNumber": 6,
+      "Focus": "Upper/Lower Split",
+      "Days": [
+        {
+          "DayNumber": 1,
+          "DayType": "Strength Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Bench Press",
+              "Presets": {
+                "Sets": 3,
+                "Reps": null,
+                "%1RM": "90%",
+                "RPE": 9
+              }
+            },
+            {
+              "Name": "Pendlay Row",
+              "Presets": {
+                "Sets": 3,
+                "Reps": null,
+                "%1RM": "5%",
+                "RPE": 9
+              }
+            },
+            {
+              "Name": "Incline Dumbbell Press",
+              "Presets": {
+                "Sets": 6,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Face Pulls",
+              "Presets": {
+                "Sets": 12,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Barbell Curl",
+              "Presets": {
+                "Sets": 8,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Tricep Pressdown",
+              "Presets": {
+                "Sets": 8,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            }
+          ]
+        },
+        {
+          "DayNumber": 2,
+          "DayType": "Strength Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Back Squat (or user-selected substitution)",
+              "Presets": {
+                "Sets": 3,
+                "Reps": null,
+                "%1RM": "90%",
+                "RPE": 9
+              }
+            },
+            {
+              "Name": "Romanian Deadlift",
+              "Presets": {
+                "Sets": 3,
+                "Reps": null,
+                "%1RM": "5%",
+                "RPE": 9
+              }
+            },
+            {
+              "Name": "Bulgarian Split Squat",
+              "Presets": {
+                "Sets": 6,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Seated Calf Raises",
+              "Presets": {
+                "Sets": 15,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Hanging Leg Raise",
+              "Presets": {
+                "Sets": 12,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            }
+          ]
+        },
+        {
+          "DayNumber": 3,
+          "DayType": "Hypertrophy Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Overhead Press",
+              "Presets": {
+                "Sets": 8,
+                "Reps": null,
+                "%1RM": "80%",
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Pull-Ups",
+              "Presets": {
+                "Sets": 8,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Dumbbell Lateral Raise",
+              "Presets": {
+                "Sets": 12,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Hammer Curl",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Skull Crushers",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Russian Twists",
+              "Presets": {
+                "Sets": 15,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            }
+          ]
+        },
+        {
+          "DayNumber": 4,
+          "DayType": "Hypertrophy Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Deadlift",
+              "Presets": {
+                "Sets": 8,
+                "Reps": null,
+                "%1RM": "80%",
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Front Squat",
+              "Presets": {
+                "Sets": 8,
+                "Reps": null,
+                "%1RM": "80%",
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Leg Curl",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Standing Calf Raises",
+              "Presets": {
+                "Sets": 15,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Bicycle Crunch",
+              "Presets": {
+                "Sets": 15,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "V Sit-Up",
+              "Presets": {
+                "Sets": 15,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "WeekNumber": 7,
+      "Focus": "Full Body Hypertrophy Focus",
+      "Days": []
+    },
+    {
+      "WeekNumber": 8,
+      "Focus": "Upper/Lower Split with a Twist",
+      "Days": [
+        {
+          "DayNumber": 1,
+          "DayType": "Strength Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Bench Press",
+              "Presets": {
+                "Sets": 3,
+                "Reps": null,
+                "%1RM": "5%",
+                "RPE": 9
+              }
+            },
+            {
+              "Name": "Pendlay Row",
+              "Presets": {
+                "Sets": 3,
+                "Reps": null,
+                "%1RM": "90%",
+                "RPE": 9
+              }
+            },
+            {
+              "Name": "Incline Dumbbell Press",
+              "Presets": {
+                "Sets": 6,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Face Pulls",
+              "Presets": {
+                "Sets": 12,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Barbell Curl",
+              "Presets": {
+                "Sets": 8,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Tricep Pressdown",
+              "Presets": {
+                "Sets": 8,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            }
+          ]
+        },
+        {
+          "DayNumber": 2,
+          "DayType": "Strength Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Back Squat (or user-selected substitution)",
+              "Presets": {
+                "Sets": 3,
+                "Reps": null,
+                "%1RM": "5%",
+                "RPE": 9
+              }
+            },
+            {
+              "Name": "Romanian Deadlift",
+              "Presets": {
+                "Sets": 3,
+                "Reps": null,
+                "%1RM": "90%",
+                "RPE": 9
+              }
+            },
+            {
+              "Name": "Bulgarian Split Squat",
+              "Presets": {
+                "Sets": 6,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Seated Calf Raises",
+              "Presets": {
+                "Sets": 15,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Hanging Leg Raise",
+              "Presets": {
+                "Sets": 12,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            }
+          ]
+        },
+        {
+          "DayNumber": 3,
+          "DayType": "Hypertrophy Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Overhead Press",
+              "Presets": {
+                "Sets": 8,
+                "Reps": null,
+                "%1RM": "80%",
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Pull-Ups",
+              "Presets": {
+                "Sets": 8,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Dumbbell Lateral Raise",
+              "Presets": {
+                "Sets": 12,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Hammer Curl",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Skull Crushers",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Russian Twists",
+              "Presets": {
+                "Sets": 15,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            }
+          ]
+        },
+        {
+          "DayNumber": 4,
+          "DayType": "Hypertrophy Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Deadlift",
+              "Presets": {
+                "Sets": 8,
+                "Reps": null,
+                "%1RM": "80%",
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Front Squat",
+              "Presets": {
+                "Sets": 8,
+                "Reps": null,
+                "%1RM": "80%",
+                "RPE": 8
+              }
+            },
+            {
+              "Name": "Leg Curl",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Standing Calf Raises",
+              "Presets": {
+                "Sets": 15,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "Bicycle Crunch",
+              "Presets": {
+                "Sets": 15,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            },
+            {
+              "Name": "V Sit-Up",
+              "Presets": {
+                "Sets": 15,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 7
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "WeekNumber": 9,
+      "Focus": "Full Body Hypertrophy Focus",
+      "Days": []
+    },
+    {
+      "WeekNumber": 10,
+      "Focus": "Max Testing and Chill Reps",
+      "Days": [
+        {
+          "DayNumber": 1,
+          "DayType": "Upper Body",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Face Pulls",
+              "Presets": {
+                "Sets": 12,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 6
+              }
+            },
+            {
+              "Name": "Dumbbell Curl",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 6
+              }
+            }
+          ]
+        },
+        {
+          "DayNumber": 2,
+          "DayType": "Lower Body",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Bulgarian Split Squat",
+              "Presets": {
+                "Sets": 8,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 6
+              }
+            },
+            {
+              "Name": "Seated Calf Raises",
+              "Presets": {
+                "Sets": 12,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 6
+              }
+            }
+          ]
+        },
+        {
+          "DayNumber": 3,
+          "DayType": "Upper Body",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Tricep Pressdown",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 5
+              }
+            },
+            {
+              "Name": "Hammer Curl",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 5
+              }
+            }
+          ]
+        },
+        {
+          "DayNumber": 4,
+          "DayType": "Lower Body",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Leg Curl",
+              "Presets": {
+                "Sets": 10,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 5
+              }
+            },
+            {
+              "Name": "Standing Calf Raises",
+              "Presets": {
+                "Sets": 12,
+                "Reps": null,
+                "%1RM": null,
+                "RPE": 5
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

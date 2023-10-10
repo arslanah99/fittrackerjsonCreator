@@ -1,0 +1,4675 @@
+{
+  "WorkoutPlan": [
+    {
+      "WeekNumber": 1,
+      "Focus": "Full Body (Undulating Periodization)",
+      "Days": [
+        {
+          "DayNumber": 1,
+          "DayType": "Strength Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Deadlifts",
+              "Presets": {
+                "Sets": 4,
+                "Reps": "5",
+                "%1RM": "80%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Overhead Press",
+              "Presets": {
+                "Sets": 4,
+                "Reps": "5",
+                "%1RM": "80%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Pull-Ups",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "6-8",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Calf Raises",
+              "Presets": {
+                "Sets": 2,
+                "Reps": "15",
+                "RPE": 6
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Dumbbell Lateral Raise",
+              "Presets": {
+                "Sets": 2,
+                "Reps": "12",
+                "RPE": 6
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Tricep Pressdown",
+              "Presets": {
+                "Sets": 2,
+                "Reps": "10",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Ab Circuit (Hanging Leg Raise + Bicycle Crunch)",
+              "Presets": {
+                "Sets": 2,
+                "Reps": "15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        },
+        {
+          "DayNumber": 2,
+          "DayType": "Hybrid Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Bulgarian Split Squat",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8",
+                "%1RM": "75%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Bench Press",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8",
+                "%1RM": "75%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Barbell Curl",
+              "Presets": {
+                "Sets": 2,
+                "Reps": "8",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Seated Calf Raises",
+              "Presets": {
+                "Sets": 2,
+                "Reps": "15",
+                "RPE": 6
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Face Pulls",
+              "Presets": {
+                "Sets": 2,
+                "Reps": "12",
+                "RPE": 6
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Skull Crushers",
+              "Presets": {
+                "Sets": 2,
+                "Reps": "10",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Incline Dumbbell Press",
+              "Presets": {
+                "Sets": 2,
+                "Reps": "8",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        },
+        {
+          "DayNumber": 3,
+          "DayType": "Hypertrophy Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Back Squat (or user-selected substitution)",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10-12",
+                "%1RM": "70%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Weighted Dip",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10-12",
+                "%1RM": "70%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Hammer Curl",
+              "Presets": {
+                "Sets": 2,
+                "Reps": "10",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Standing Calf Raises",
+              "Presets": {
+                "Sets": 2,
+                "Reps": "15",
+                "RPE": 6
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Lean-Away Lateral Raise",
+              "Presets": {
+                "Sets": 2,
+                "Reps": "12",
+                "RPE": 6
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Close-Grip Bench Press",
+              "Presets": {
+                "Sets": 2,
+                "Reps": "10",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Barbell Shrugs",
+              "Presets": {
+                "Sets": 2,
+                "Reps": "12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        },
+        {
+          "DayNumber": 4,
+          "DayType": "Hybrid Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Deadlifts",
+              "Presets": {
+                "Sets": 4,
+                "Reps": "6-8",
+                "%1RM": "75%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Bench Press",
+              "Presets": {
+                "Sets": 4,
+                "Reps": "6-8",
+                "%1RM": "75%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Incline Dumbbell Curl",
+              "Presets": {
+                "Sets": 2,
+                "Reps": "8",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Calf Raises",
+              "Presets": {
+                "Sets": 2,
+                "Reps": "15",
+                "RPE": 6
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Upright Row",
+              "Presets": {
+                "Sets": 2,
+                "Reps": "12",
+                "RPE": 6
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Tricep Pressdown",
+              "Presets": {
+                "Sets": 2,
+                "Reps": "10",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Russian Twists",
+              "Presets": {
+                "Sets": 2,
+                "Reps": "15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        }
+      ],
+      "IsCompleted": false,
+      "CompletionDate": null
+    },
+    {
+      "WeekNumber": 2,
+      "Focus": "Upper/Lower Split",
+      "Days": [
+        {
+          "DayNumber": 1,
+          "DayType": "Strength Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Bench Press",
+              "Presets": {
+                "Sets": 4,
+                "Reps": "5",
+                "%1RM": "82.5%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Pendlay Row (great for upper back)",
+              "Presets": {
+                "Sets": 4,
+                "Reps": "5",
+                "%1RM": "80%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Incline Dumbbell Press (to target upper chest)",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Face Pulls (for rear delts/upper back)",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Barbell Curl",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Tricep Pressdown",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        },
+        {
+          "DayNumber": 2,
+          "DayType": "Strength Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Back Squat (or user-selected substitution)",
+              "Presets": {
+                "Sets": 4,
+                "Reps": "5",
+                "%1RM": "82.5%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Romanian Deadlift (targets hamstrings and glutes)",
+              "Presets": {
+                "Sets": 4,
+                "Reps": "5",
+                "%1RM": "80%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Bulgarian Split Squat",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Seated Calf Raises",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Hanging Leg Raise (for core)",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        },
+        {
+          "DayNumber": 3,
+          "DayType": "Hypertrophy Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Overhead Press",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10-12",
+                "%1RM": "70%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Pull-Ups",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10-12",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Dumbbell Lateral Raise",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Hammer Curl",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Skull Crushers",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Russian Twists (for core)",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        },
+        {
+          "DayNumber": 4,
+          "DayType": "Hypertrophy Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Deadlift",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10-12",
+                "%1RM": "70%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Front Squat (a variation to target quads more)",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10-12",
+                "%1RM": "70%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Leg Curl (for hamstrings)",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Standing Calf Raises",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Bicycle Crunch (for core)",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "V Sit-Up (for core)",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        }
+      ],
+      "IsCompleted": false,
+      "CompletionDate": null
+    },
+    {
+      "WeekNumber": 3,
+      "Focus": "Full Body Focus",
+      "Days": [
+        {
+          "DayNumber": 1,
+          "DayType": "Strength Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Deadlift",
+              "Presets": {
+                "Sets": 4,
+                "Reps": "5",
+                "%1RM": "85%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Overhead Press",
+              "Presets": {
+                "Sets": 4,
+                "Reps": "5",
+                "%1RM": "85%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Pull-Ups",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "6-8",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Calf Raises",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Dumbbell Lateral Raise",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Barbell Curl",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Russian Twists",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        },
+        {
+          "DayNumber": 2,
+          "DayType": "Hybrid Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Bench Press",
+              "Presets": {
+                "Sets": 4,
+                "Reps": "6-8",
+                "%1RM": "80%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Pendlay Row",
+              "Presets": {
+                "Sets": 4,
+                "Reps": "6-8",
+                "%1RM": "80%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Incline Dumbbell Press",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Face Pulls",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Hammer Curl",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Tricep Pressdown",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Hanging Leg Raise",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        },
+        {
+          "DayNumber": 3,
+          "DayType": "Hypertrophy Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Squat Variation (user-selected)",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10-12",
+                "%1RM": "75%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Weighted Dip",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10-12",
+                "%1RM": "75%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Leg Curl",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Standing Calf Raises",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Dumbbell Lateral Raise",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Barbell Curl",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Bicycle Crunch",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        },
+        {
+          "DayNumber": 4,
+          "DayType": "Hybrid Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Deadlift",
+              "Presets": {
+                "Sets": 4,
+                "Reps": "6-8",
+                "%1RM": "80%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Bench Press",
+              "Presets": {
+                "Sets": 4,
+                "Reps": "6-8",
+                "%1RM": "80%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Pull-Ups",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Seated Calf Raises",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Face Pulls",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Skull Crushers",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "V Sit-Up",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        }
+      ],
+      "IsCompleted": false,
+      "CompletionDate": null
+    },
+    {
+      "WeekNumber": 4,
+      "Focus": "Upper/Lower Split",
+      "Days": [
+        {
+          "DayNumber": 1,
+          "DayType": "Strength Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Bench Press",
+              "Presets": {
+                "Sets": 4,
+                "Reps": "3",
+                "%1RM": "90-92.5%",
+                "RPE": 9
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Pendlay Row",
+              "Presets": {
+                "Sets": 4,
+                "Reps": "3",
+                "%1RM": "87.5-90%",
+                "RPE": 9
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Incline Dumbbell Press",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "6",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Face Pulls",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Barbell Curl",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Tricep Pressdown",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        },
+        {
+          "DayNumber": 2,
+          "DayType": "Strength Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Back Squat (or user-selected substitution)",
+              "Presets": {
+                "Sets": 4,
+                "Reps": "3",
+                "%1RM": "90-92.5%",
+                "RPE": 9
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Romanian Deadlift",
+              "Presets": {
+                "Sets": 4,
+                "Reps": "3",
+                "%1RM": "87.5-90%",
+                "RPE": 9
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Bulgarian Split Squat",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "6",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Seated Calf Raises",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Hanging Leg Raise",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        },
+        {
+          "DayNumber": 3,
+          "DayType": "Hypertrophy Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Overhead Press",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10",
+                "%1RM": "70-75%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Pull-Ups",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Dumbbell Lateral Raise",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Hammer Curl",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Skull Crushers",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Russian Twists",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        },
+        {
+          "DayNumber": 4,
+          "DayType": "Hypertrophy Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Deadlift",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10",
+                "%1RM": "70-75%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Front Squat",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10",
+                "%1RM": "70-75%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Leg Curl",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Standing Calf Raises",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Bicycle Crunch",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "V Sit-Up",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        }
+      ],
+      "IsCompleted": false,
+      "CompletionDate": null
+    },
+    {
+      "WeekNumber": 5,
+      "Focus": "Full Body Hypertrophy Focus",
+      "Days": [
+        {
+          "DayNumber": 1,
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Deadlift",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "%1RM": "70-75%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Bench Press",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "%1RM": "70-75%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Pull-Ups",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Dumbbell Lateral Raise",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Barbell Curl",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Tricep Pressdown",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Russian Twists",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        },
+        {
+          "DayNumber": 2,
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Squat Variation (user-selected)",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "%1RM": "70-75%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Overhead Press",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "%1RM": "70-75%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Face Pulls",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Hammer Curl",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Skull Crushers",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Seated Calf Raises",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Hanging Leg Raise",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        },
+        {
+          "DayNumber": 3,
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Front Squat",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "%1RM": "70-75%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Pendlay Row",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "%1RM": "70-75%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Incline Dumbbell Press",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Dumbbell Lateral Raise",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Barbell Curl",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Tricep Pressdown",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Bicycle Crunch",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        },
+        {
+          "DayNumber": 4,
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Romanian Deadlift",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "%1RM": "70-75%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Weighted Dip",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "%1RM": "70-75%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Pull-Ups",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Face Pulls",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Hammer Curl",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Skull Crushers",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "V Sit-Up",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        }
+      ],
+      "IsCompleted": false,
+      "CompletionDate": null
+    },
+    {
+      "WeekNumber": 6,
+      "Focus": "Upper/Lower Split",
+      "Days": [
+        {
+          "DayNumber": 1,
+          "DayType": "Strength Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Bench Press",
+              "Presets": {
+                "Sets": 4,
+                "Reps": "3-5",
+                "%1RM": "87.5-90%",
+                "RPE": 9
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Pendlay Row",
+              "Presets": {
+                "Sets": 4,
+                "Reps": "3-5",
+                "%1RM": "85-87.5%",
+                "RPE": 9
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Incline Dumbbell Press",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "6-8",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Face Pulls",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12-15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Barbell Curl",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Tricep Pressdown",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        },
+        {
+          "DayNumber": 2,
+          "DayType": "Strength Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Back Squat (or user-selected substitution)",
+              "Presets": {
+                "Sets": 4,
+                "Reps": "3-5",
+                "%1RM": "87.5-90%",
+                "RPE": 9
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Romanian Deadlift",
+              "Presets": {
+                "Sets": 4,
+                "Reps": "3-5",
+                "%1RM": "85-87.5%",
+                "RPE": 9
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Bulgarian Split Squat",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "6-8",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Seated Calf Raises",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15-18",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Hanging Leg Raise",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12-15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        },
+        {
+          "DayNumber": 3,
+          "DayType": "Hypertrophy Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Overhead Press",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "%1RM": "75-80%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Pull-Ups",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Dumbbell Lateral Raise",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12-15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Hammer Curl",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10-12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Skull Crushers",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10-12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Russian Twists",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15-18",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        },
+        {
+          "DayNumber": 4,
+          "DayType": "Hypertrophy Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Deadlift",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "%1RM": "75-80%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Front Squat",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "%1RM": "75-80%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Leg Curl",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10-12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Standing Calf Raises",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15-18",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Bicycle Crunch",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15-18",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "V Sit-Up",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15-18",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        }
+      ],
+      "IsCompleted": false,
+      "CompletionDate": null
+    },
+    {
+      "WeekNumber": 7,
+      "Focus": "Full Body Hypertrophy Focus",
+      "Days": [
+        {
+          "DayNumber": 1,
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Deadlift",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "%1RM": "75-80%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Bench Press",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "%1RM": "75-80%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Pull-Ups",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Dumbbell Lateral Raise",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12-15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Barbell Curl",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10-12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Tricep Pressdown",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10-12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Russian Twists",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15-18",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        },
+        {
+          "DayNumber": 2,
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Squat Variation (user-selected)",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "%1RM": "75-80%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Overhead Press",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "%1RM": "75-80%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Face Pulls",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12-15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Hammer Curl",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10-12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Skull Crushers",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10-12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Seated Calf Raises",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15-18",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Hanging Leg Raise",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12-15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        },
+        {
+          "DayNumber": 3,
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Front Squat",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "%1RM": "75-80%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Pendlay Row",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "%1RM": "75-80%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Incline Dumbbell Press",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Dumbbell Lateral Raise",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12-15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Barbell Curl",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10-12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Tricep Pressdown",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10-12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Bicycle Crunch",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15-18",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        },
+        {
+          "DayNumber": 4,
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Romanian Deadlift",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "%1RM": "75-80%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Weighted Dip",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "%1RM": "75-80%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Pull-Ups",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Face Pulls",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12-15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Hammer Curl",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10-12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Skull Crushers",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10-12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "V Sit-Up",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15-18",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        }
+      ],
+      "IsCompleted": false,
+      "CompletionDate": null
+    },
+    {
+      "WeekNumber": 8,
+      "Focus": "Upper/Lower Split with a Twist",
+      "Days": [
+        {
+          "DayNumber": 1,
+          "DayType": "Strength Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Bench Press",
+              "Presets": {
+                "Sets": 4,
+                "Reps": "3-5",
+                "%1RM": "90-92.5%",
+                "RPE": 9
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Pendlay Row",
+              "Presets": {
+                "Sets": 4,
+                "Reps": "3-5",
+                "%1RM": "87.5-90%",
+                "RPE": 9
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Incline Dumbbell Press",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "6-8",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Face Pulls",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12-15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Barbell Curl",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Tricep Pressdown",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        },
+        {
+          "DayNumber": 2,
+          "DayType": "Strength Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Back Squat (or user-selected substitution)",
+              "Presets": {
+                "Sets": 4,
+                "Reps": "3-5",
+                "%1RM": "90-92.5%",
+                "RPE": 9
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Romanian Deadlift",
+              "Presets": {
+                "Sets": 4,
+                "Reps": "3-5",
+                "%1RM": "87.5-90%",
+                "RPE": 9
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Bulgarian Split Squat",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "6-8",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Seated Calf Raises",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15-18",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Hanging Leg Raise",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12-15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        },
+        {
+          "DayNumber": 3,
+          "DayType": "Hypertrophy Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Overhead Press",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "%1RM": "77.5-80%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Pull-Ups",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Dumbbell Lateral Raise",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12-15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Hammer Curl",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10-12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Skull Crushers",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10-12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Russian Twists",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15-18",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        },
+        {
+          "DayNumber": 4,
+          "DayType": "Hypertrophy Focus",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Deadlift",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "%1RM": "77.5-80%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Front Squat",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "%1RM": "77.5-80%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Leg Curl",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10-12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Standing Calf Raises",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15-18",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Bicycle Crunch",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15-18",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "V Sit-Up",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15-18",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        }
+      ],
+      "IsCompleted": false,
+      "CompletionDate": null
+    },
+    {
+      "WeekNumber": 9,
+      "Focus": "Full Body Hypertrophy Focus",
+      "Days": [
+        {
+          "DayNumber": 1,
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Deadlift",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "%1RM": "77.5-80%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Bench Press",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "%1RM": "77.5-80%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Pull-Ups",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Dumbbell Lateral Raise",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12-15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Barbell Curl",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10-12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Tricep Pressdown",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10-12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Russian Twists",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15-18",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        },
+        {
+          "DayNumber": 2,
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Squat Variation (user-selected)",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "%1RM": "77.5-80%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Overhead Press",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "%1RM": "77.5-80%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Face Pulls",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12-15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Hammer Curl",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10-12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Skull Crushers",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10-12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Seated Calf Raises",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15-18",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Hanging Leg Raise",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12-15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        },
+        {
+          "DayNumber": 3,
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Front Squat",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "%1RM": "77.5-80%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Pendlay Row",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "%1RM": "77.5-80%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Incline Dumbbell Press",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Dumbbell Lateral Raise",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12-15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Barbell Curl",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10-12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Tricep Pressdown",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10-12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Bicycle Crunch",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15-18",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        },
+        {
+          "DayNumber": 4,
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Romanian Deadlift",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "%1RM": "77.5-80%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Weighted Dip",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "%1RM": "77.5-80%",
+                "RPE": 8
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Pull-Ups",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "8-10",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Face Pulls",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12-15",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Hammer Curl",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10-12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Skull Crushers",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10-12",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "V Sit-Up",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "15-18",
+                "RPE": 7
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        }
+      ],
+      "IsCompleted": false,
+      "CompletionDate": null
+    },
+    {
+      "WeekNumber": 10,
+      "Focus": "Max Testing and Chill Reps",
+      "Days": [
+        {
+          "DayNumber": 1,
+          "DayType": "Upper Body",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Bench Press",
+              "Presets": {
+                "Sets": 2,
+                "Reps": "5"
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Pendlay Row",
+              "Presets": {
+                "Sets": 2,
+                "Reps": "5"
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Face Pulls",
+              "Presets": {
+                "Sets": 2,
+                "Reps": "12-15",
+                "RPE": 6
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Dumbbell Curl",
+              "Presets": {
+                "Sets": 2,
+                "Reps": "10-12",
+                "RPE": 6
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        },
+        {
+          "DayNumber": 2,
+          "DayType": "Lower Body",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Squat Variation (user-selected)",
+              "Presets": {
+                "Sets": 2,
+                "Reps": "5"
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Deadlift",
+              "Presets": {
+                "Sets": 2,
+                "Reps": "5"
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Bulgarian Split Squat",
+              "Presets": {
+                "Sets": 2,
+                "Reps": "8-10",
+                "RPE": 6
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Seated Calf Raises",
+              "Presets": {
+                "Sets": 2,
+                "Reps": "12-15",
+                "RPE": 6
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        },
+        {
+          "DayNumber": 3,
+          "DayType": "Upper Body",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Overhead Press",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "5",
+                "%1RM": "70%",
+                "RPE": 5
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Pull-Ups",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "5",
+                "RPE": 5
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Tricep Pressdown",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10-12",
+                "RPE": 5
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Hammer Curl",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10-12",
+                "RPE": 5
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        },
+        {
+          "DayNumber": 4,
+          "DayType": "Lower Body",
+          "IsCompleted": false,
+          "CompletionDate": null,
+          "Exercises": [
+            {
+              "Name": "Front Squat",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "5",
+                "%1RM": "70%",
+                "RPE": 5
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Romanian Deadlift",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "5",
+                "%1RM": "70%",
+                "RPE": 5
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Leg Curl",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "10-12",
+                "RPE": 5
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            },
+            {
+              "Name": "Standing Calf Raises",
+              "Presets": {
+                "Sets": 3,
+                "Reps": "12-15",
+                "RPE": 5
+              },
+              "Substitutions": [],
+              "UserInput": {
+                "Reps": null,
+                "Weight": null,
+                "Notes": null,
+                "Date": null
+              },
+              "Progress": [],
+              "Info": null
+            }
+          ]
+        }
+      ],
+      "IsCompleted": false,
+      "CompletionDate": null
+    }
+  ]
+}
